@@ -10,5 +10,7 @@ int main() {
     cout<<"nihao"<<endl;
     cout<<"master test"<<endl;
     cout<<"hot-fix test11"<<endl;
+    cout<<"hot-fix test11"<<endl;
+    cout<<"push test11"<<endl;
     return 0;
 }
