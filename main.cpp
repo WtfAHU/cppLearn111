@@ -8,5 +8,6 @@ int main() {
     cout<<"nihao"<<endl;
     cout<<"nihao"<<endl;
     cout<<"nihao"<<endl;
+    cout<<"hot-fix test"<<endl;
     return 0;
 }
