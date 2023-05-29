@@ -5,5 +5,8 @@ int main() {
     cout<<"nihao"<<endl;
     cout<<"nihao"<<endl;
     cout<<"nihao"<<endl;
+    cout<<"nihao"<<endl;
+    cout<<"nihao"<<endl;
+    cout<<"nihao"<<endl;
     return 0;
 }
